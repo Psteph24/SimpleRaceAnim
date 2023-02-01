@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\pstep\source\repos\SimpleRaceAnim\SimpleRaceAnim\src\Main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimpleRaceAnim.vcxproj -> C:\Users\pstep\source\repos\SimpleRaceAnim\x64\Debug\SimpleRaceAnim.exe
